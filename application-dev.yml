@@ -1,5 +1,5 @@
 server:  
-  name: spring-cloud-config-server
+  name: spring-cloud-config-server-test
 data:
   env: config-eureka-dev
   user:
